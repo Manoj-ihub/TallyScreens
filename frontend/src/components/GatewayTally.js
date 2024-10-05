@@ -15,6 +15,7 @@ const GatewayTally = () => {
               <p className="Gateway-homepage-column-1-date-para">
                 Financial Year
               </p>
+              
             </div>
             <div className="Gateway-homepage-column-1-today-date">
               <h5>CURRENT DATE</h5>
