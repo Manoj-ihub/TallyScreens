@@ -1,0 +1,66 @@
+.Gateway-homepage-heading {
+  text-align: left;
+  padding-left: 15px;
+  background-color: rgb(154, 199, 241);
+}
+.Gateway-homepage {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 100vh;
+}
+.Gateway-homepage-column-1 {
+  width: 50%;
+  border-right: 0.5px solid rgba(46, 45, 45, 0.432);
+}
+.Gateway-homepage-column-2 {
+  width: 50%;
+}
+.Gateway-homepage-column-1-date {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.Gateway-homepage-column-1-date h5 {
+  color: rgba(34, 82, 241, 0.719);
+}
+.Gateway-homepage-column-1-entries-heading {
+  display: flex;
+  justify-content: space-between;
+  color: rgba(34, 82, 241, 0.719);
+  border-top: solid 0.5px;
+  border-bottom: solid 0.5px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.Gateway-homepage-column-1-entries {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.Gateway-homepage-column-2-container {
+  margin-top: 20px;
+  margin-bottom: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: rgba(52, 123, 255, 0.205);
+}
+.Gateway-homepage-column-2-container-heading {
+  background-color: rgba(28, 110, 218, 0.966);
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Gateway-homepage-column-2-container-content {
+  text-align: left;
+  padding-left: 30%;
+  padding-bottom: 5px;
+}
+.Gateway-homepage-column-2-container-content h5 {
+  color: rgba(34, 82, 241, 0.719);
+}
+.Gateway-homepage-column-2-container-content h5 p:hover {
+  background-color: rgb(231, 218, 94);
+}
